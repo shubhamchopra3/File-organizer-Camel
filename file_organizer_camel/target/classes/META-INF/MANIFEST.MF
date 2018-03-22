@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: file_organizer_camel
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: srchopra
+Implementation-Vendor-Id: com.file.organizer
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/file_organiz
+ er_camel/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
